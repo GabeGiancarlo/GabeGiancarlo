@@ -1,4 +1,4 @@
-**# Hi there 👋 I'm Gabe Giancarlo  
+# Hi there 👋 I'm Gabe Giancarlo  
 
 💻 **Computer Science Student | Software Engineer | Cybersecurity Enthusiast**  
 
@@ -58,4 +58,3 @@ A TypeScript-based app exploring interactive UI design and creative web experien
 
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/gabe-giancarlo-25a395255)  
-**
