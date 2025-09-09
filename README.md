@@ -10,27 +10,28 @@ I’m passionate about building secure, innovative, and user-friendly applicatio
 
 ### [Trinavia](https://github.com/GabeGiancarlo/Trinavia)  
 Precision viticulture drone system leveraging computer vision, automation, and data analytics for crop monitoring, precision spraying, and vineyard security.  
-**Tech:** HTML, JavaScript, Drone APIs, Computer Vision
+**Tech:** HTML, JavaScript, Drone APIs, Computer Vision, CAD, 3D Printing
+
+### [LearnSpeakeasy](https://learnspeakeasy.com)  
+A full-stack language learning platform that helps users practice through videos, saved phrases, quizzes, games, and AI-powered conversations.  
+As a **developer**, I contribute across the stack, with a particular focus on **mobile development**, ensuring smooth cross-platform performance and user experience.  
+**Tech:** Swift, React, Node.js, AI/ML APIs, TypeScript
 
 ### [EMR](https://github.com/GabeGiancarlo/EMR)  
 A secure, efficient Electronic Medical Records system with a focus on usability and performance.  
-**Tech:** Rust, UI/UX Design Principles
+**Tech:** Rust, UI/UX Design Principles  
 
 ### [Intitled](https://github.com/GabeGiancarlo/Intitled)  
-A Swift-based productivity app for iOS/macOS designed to streamline task organization and focus.  
-**Tech:** Swift, SwiftUI
+A Swift-based library app for iOS/macOS designed to take books from your camera and create a virtual asset to bring your personal library to life.
+**Tech:** Swift, SwiftUI  
 
 ### [CyberSentryAI](https://github.com/GabeGiancarlo/CyberSentryAI)  
 An AI-powered cybersecurity assistant that analyzes threats and suggests mitigations.  
-**Tech:** Python, Machine Learning, Cybersecurity Frameworks
+**Tech:** Python, Machine Learning, Cybersecurity Frameworks  
 
 ### [dotfiles](https://github.com/GabeGiancarlo/dotfiles)  
 My personal, minimal, and efficient NeoVim + shell configuration for a productive development environment.  
-**Tech:** Lua, NeoVim, Terminal Customization
-
-### [MeliMou](https://github.com/GabeGiancarlo/MeliMou)  
-A TypeScript-based app exploring interactive UI design and creative web experiences.  
-**Tech:** TypeScript, Web Frameworks
+**Tech:** Lua, NeoVim, Terminal Customization  
 
 ---
 
@@ -44,17 +45,20 @@ A TypeScript-based app exploring interactive UI design and creative web experien
 
 ## 📈 GitHub Stats
 
-![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabeGiancarlo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeGiancarlo&layout=compact&theme=radical)
+![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabeGiancarlo&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeGiancarlo&layout=compact&theme=radical&count_private=true)
 
 ---
 
 ## 🌱 What I’m working on right now
 - Enhancing **Trinavia** with 3D imaging and advanced AI analytics  
+- Expanding **LearnSpeakeasy** with engagement-focused mobile features  
 - Building **CyberSentryAI** threat intelligence modules  
 - Designing minimal, functional developer environments  
 
 ---
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/gabe-giancarlo-25a395255)  
+- [LinkedIn](https://www.linkedin.com/in/gabe-giancarlo-25a395255)  
+- [Instagram](https://www.instagram.com/gabegiancarlo)  
+
