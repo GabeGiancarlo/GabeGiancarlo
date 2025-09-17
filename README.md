@@ -21,7 +21,7 @@ As a **developer**, I contribute across the stack, with a particular focus on **
 A secure, efficient Electronic Medical Records system with a focus on usability and performance.  
 **Tech:** Rust, UI/UX Design Principles  
 
-### [Intitled](https://github.com/GabeGiancarlo/Intitled)  
+### [STACKS](https://github.com/GabeGiancarlo/Stacks)  
 A Swift-based library app for iOS/macOS designed to take books from your camera and create a virtual asset to bring your personal library to life.
 **Tech:** Swift, SwiftUI  
 
