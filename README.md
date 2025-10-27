@@ -17,10 +17,6 @@ A full-stack language learning platform that helps users practice through videos
 As a **developer**, I contribute across the stack, with a particular focus on **mobile development**, ensuring smooth cross-platform performance and user experience.  
 **Tech:** Swift, React, Node.js, AI/ML APIs, TypeScript
 
-### [EMR](https://github.com/GabeGiancarlo/EMR)  
-A secure, efficient Electronic Medical Records system with a focus on usability and performance.  
-**Tech:** Rust, UI/UX Design Principles  
-
 ### [STACKS](https://github.com/GabeGiancarlo/Stacks)  
 A Swift-based library app for iOS/macOS designed to take books from your camera and create a virtual asset to bring your personal library to life.
 **Tech:** Swift, SwiftUI  
